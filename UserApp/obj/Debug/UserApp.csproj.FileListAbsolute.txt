@@ -1,0 +1,17 @@
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp.csprojResolveAssemblyReference.cache
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\CreateUser.g.cs
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\MainWindow.g.cs
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\App.g.cs
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp_MarkupCompile.cache
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp_MarkupCompile.lref
+c:\users\едиген\source\repos\UserApp\UserApp\bin\Debug\UserApp.exe.config
+c:\users\едиген\source\repos\UserApp\UserApp\bin\Debug\UserApp.exe
+c:\users\едиген\source\repos\UserApp\UserApp\bin\Debug\UserApp.pdb
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\CreateUser.baml
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\MainWindow.baml
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp.g.resources
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp.Properties.Resources.resources
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp.csproj.GenerateResource.cache
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp.exe
+c:\users\едиген\source\repos\UserApp\UserApp\obj\Debug\UserApp.pdb
